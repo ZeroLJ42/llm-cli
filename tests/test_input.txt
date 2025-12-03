@@ -1,0 +1,11 @@
+请分析以下代码并指出问题：
+
+```python
+def calculate_sum(numbers):
+    result = 0
+    for num in numbers:
+        result = result + num
+    return result
+```
+
+这是一个简单的求和函数，请评价其代码质量。
